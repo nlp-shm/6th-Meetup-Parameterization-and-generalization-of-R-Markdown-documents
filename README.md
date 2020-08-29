@@ -8,3 +8,5 @@ URL for this workshop Rstudio Cloud material (available for new connections unti
 https://rstudio.cloud/spaces/68613/join?access_code=iK9r7HvoIBiMYtabvcvER%2F0KObdhtxUUoZctMo22
 
 More Details in the *Workshop_synopsis* document.
+
+R-Ladies Tunis hosted Cristina Muschitiella in July 2020 and she were animating the same workshop.
